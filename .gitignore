@@ -1,0 +1,25 @@
+*.class
+#packagef file
+*.war
+*.ear
+#maven
+target/
+#eclipse
+.setting/
+.project
+.classpath
+#idea
+.idea/
+/idea/
+*.iml
+*.iws
+*.ipr
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.temp
+#system file
+.DS_Store
